@@ -4,8 +4,6 @@
 
 Join the [kubernetes-security-announce] group for security and vulnerability announcements.
 
-You can also subscribe to an RSS feed of the above using [this link][kubernetes-security-announce-rss].
-
 ## Reporting a Vulnerability
 
 Instructions for reporting a vulnerability can be found on the
